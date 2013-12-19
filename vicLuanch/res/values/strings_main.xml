@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="main_menu">功能菜单</string>
+    <string name="main_news">新闻</string>
+    <string name="main_bulletin">公告</string>
+    <string name="main_archive">文档</string>
+    <string name="main_flow">协同</string>
+    <string name="main_notification">消息</string>
+    <string name="main_contact">通讯录</string>
+    <string name="main_off">公文</string>
+    <string name="main_chart">统计</string>
+    <string name="main_temp">表单模板</string>
+    <string name="main_schedule">日程</string>
+    <string name="main_conference">会议</string>
+    <string name="main_settings">设置</string>
+    <string name="main_business">业务管理</string>
+    <string name="main_im">交流</string>
+
+    <string-array name="main_modue">
+        <item>消息中心</item>
+        <item>协同</item>
+        <item>公文</item>
+        <item>公告</item>
+        <item>新闻</item>
+        <item>文档</item>
+        <item>通讯录</item>
+        <item>统计</item>
+        <item>交流</item>
+    </string-array>
+    <string-array name="main_gov_modue">
+        <item>消息中心</item>
+        <item>公文</item>
+        <item>协同</item>
+        <item>文档</item>
+        <item>业务管理</item>
+        <item>通讯录</item>
+        <item>统计</item>
+        <item>设置</item>
+        <item>交流</item>
+    </string-array>
+
+</resources>
